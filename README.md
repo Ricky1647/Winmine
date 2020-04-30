@@ -8,3 +8,4 @@ Mine game has the following rules:
 that cell, where K is the number of mines surrounding the cell. Otherwise, if the cell has a mine then it will explode and game over.
 5. Player can repeat the guessing process. Finally the mine game will give the player a " you win" or "you are dead" message and the game is over.
 6.Expanding your Grid When you have not selected a bomb
+
